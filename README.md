@@ -1,4 +1,8 @@
 # Proyecto-Desarrollo-de-la-IA
+*Alumno: Rios Gonzalo Gabriel
+*Carrera: Recuros Digitales.
+*Tema: Herramientas Utilizadas en Diseño Front End y Back End en los ultimos 5 años, y los cambios que hubo en el desarrollo con la IA como soporte.
+
 ## Proceso para el desarrollo del trabajo investigativo 
 
 ### Perplexity
